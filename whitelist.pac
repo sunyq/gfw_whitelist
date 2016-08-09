@@ -49,7 +49,8 @@ var RULES = [
     [
         ".cn",
         ".domain",
-        ".virtual"
+        ".virtual",
+        ".pps.tv"
     ],
     //custom-list
     [
