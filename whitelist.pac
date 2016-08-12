@@ -52,6 +52,11 @@ var RULES = [
         ".virtual",
         ".pps.tv"
     ],
+    // added by sunyq
+    [
+        ".freebuf.com",
+        ".3001.net"
+    ],
     //custom-list
     [
         ".zoopda.com",
