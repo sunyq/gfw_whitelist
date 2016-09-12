@@ -366,6 +366,7 @@ var RULES = [
     [
         ".baidu.com",
         ".qq.com",
+        "weiyun.com",
         ".taobao.com",
         ".163.com",
         ".weibo.com",
