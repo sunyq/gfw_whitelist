@@ -741,6 +741,7 @@ var RULES = [
         ".mumayi.com",
         ".sttlbb.com",
         ".mangocity.com",
+        ".networkbench.com",
         ".fantong.com"
     ]
 ];
