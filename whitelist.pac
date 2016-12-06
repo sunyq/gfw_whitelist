@@ -180,6 +180,7 @@ var RULES = [
         ".gaopeng.com",
         ".getfirebug.com",
         ".gfw.io",
+        "maxiang.io",
         ".ggmm777.com",
         ".go2map.com",
         ".goodbabygroup.com",
