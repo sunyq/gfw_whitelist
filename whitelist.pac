@@ -540,6 +540,7 @@ var RULES = [
         ".55tuan.com",
         ".cocoren.com",
         ".xiaomi.com",
+        ".mi.com",
         ".phpwind.net",
         ".abchina.com",
         ".thethirdmedia.com",
